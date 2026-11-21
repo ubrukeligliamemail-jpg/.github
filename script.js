@@ -1,1 +1,11 @@
-(function(){var _0=['getElementById','loader','textContent','Fetching download link...','Redirecting…','fetch','https://pabfilehosts.github.io/link/','then','json','then','location','href'];var l=document[_0[0]](_0[1]);l[_0[2]]=_0[3];window[_0[5]](_0[6])[_0[7]](r=>r[_0[8]]())[_0[9]](d=>{l[_0[2]]=_0[4];setTimeout(function(){window[_0[10]][_0[11]]=d.url;},2000);}).catch(e=>{l[_0[2]]='Error fetching link';});})();
+(function () {
+  var loader = document.getElementById('loader');
+  loader.textContent = 'Redirecting…';
+
+  // Put a URL here that YOU trust and control
+  var DOWNLOAD_URL = 'https://example.com/your-file.zip';
+
+  setTimeout(function () {
+    window.location.href = DOWNLOAD_URL;
+  }, 2000);
+})();
